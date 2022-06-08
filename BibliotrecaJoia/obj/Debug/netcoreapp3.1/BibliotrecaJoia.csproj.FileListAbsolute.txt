@@ -1,0 +1,339 @@
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.exe
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.deps.json
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.runtimeconfig.json
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.runtimeconfig.dev.json
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.pdb
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.Views.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.Views.pdb
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.csproj.AssemblyReference.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.AssemblyInfoInputs.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.AssemblyInfo.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.csproj.CoreCompileInputs.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.RazorAssemblyInfo.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.RazorAssemblyInfo.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\staticwebassets\BibliotrecaJoia.StaticWebAssets.Manifest.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.TagHelpers.input.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.TagHelpers.output.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.RazorCoreGenerate.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.RazorTargetAssemblyInfo.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.RazorTargetAssemblyInfo.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.Views.pdb
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.pdb
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.genruntimeconfig.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.csproj.CopyComplete
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Livro\index.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Livro\List.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Create.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projeto Web Asp.Net Core MVC\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edit.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.exe
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.deps.json
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.runtimeconfig.json
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.runtimeconfig.dev.json
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.pdb
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.Views.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.Views.pdb
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.csproj.AssemblyReference.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.AssemblyInfoInputs.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.AssemblyInfo.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.csproj.CoreCompileInputs.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.RazorAssemblyInfo.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.RazorAssemblyInfo.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\staticwebassets\BibliotrecaJoia.StaticWebAssets.Manifest.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.TagHelpers.input.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.TagHelpers.output.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.RazorCoreGenerate.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Create.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edit.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Livro\index.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Livro\List.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.RazorTargetAssemblyInfo.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.RazorTargetAssemblyInfo.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.Views.pdb
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.csproj.CopyComplete
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.pdb
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.genruntimeconfig.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Details.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.exe
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.deps.json
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.runtimeconfig.json
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.runtimeconfig.dev.json
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.pdb
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.Views.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\BibliotrecaJoia.Views.pdb
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.csproj.AssemblyReference.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.AssemblyInfoInputs.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.AssemblyInfo.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.csproj.CoreCompileInputs.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.RazorAssemblyInfo.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.RazorAssemblyInfo.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\staticwebassets\BibliotrecaJoia.StaticWebAssets.Manifest.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.TagHelpers.input.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.TagHelpers.output.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.RazorCoreGenerate.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Create.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Delete.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Details.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edit.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Livro\index.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Livro\List.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.RazorTargetAssemblyInfo.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.RazorTargetAssemblyInfo.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.Views.pdb
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.csproj.CopyComplete
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.pdb
+C:\Users\vinir\OneDrive\Área de Trabalho\Projetos para GitHub\BibliotecaJoia.API\BibliotrecaJoia\BibliotrecaJoia\obj\Debug\netcoreapp3.1\BibliotrecaJoia.genruntimeconfig.cache
